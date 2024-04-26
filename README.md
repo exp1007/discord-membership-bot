@@ -1,6 +1,8 @@
 # About
 Discord bot for managing subscription based discord communities using MySQL database.
 
+! USER INPUT IS NOT SANITIZED !
+
 # Features/Commands
 User
 - !claim - Create account 
