@@ -1,5 +1,5 @@
 # About
-Discord bot for managing an entire commerce discord community using MySQL database.
+Discord bot for managing subscription based discord communities using MySQL database.
 
 # Features/Commands
 User
